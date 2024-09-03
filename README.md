@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&s)]
+![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp)
 <h1 align="center">Hi 👋, I'm S Hari Sabapaty</h1>
 <h3 align="center">An innovative engineer with a passion for problem-solving</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
